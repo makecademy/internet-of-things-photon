@@ -1,4 +1,5 @@
 // Lamp pin
+print("Here is setup of photon light of IoT")
 int lampPin = D5;
 
 // Thresholds
